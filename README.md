@@ -146,6 +146,12 @@ Use this format to record the results:
 | 0010 |  |  |  |
 | ... |  |  |  |
 
+
+InputsExpected outputObserved outputStatus000000PASS000100PASS001000PASS001111PASS010000PASS010100PASS011011PASS011111PASS100000PASS100111PASS101000PASS101111PASS110011PASS110111PASS111011PASS111100PASS
+
+
+
+
 Extend the table to include every input combination required by each equation.
 
 ## 6. Performance Analysis
