@@ -429,15 +429,15 @@ For each circuit, record:
 
 HERE IS THE ANALYSIS RECORD:
 | Equation | NOT Gates | AND Gates | OR Gates | XOR/XNOR Gates | Total Gate Count | Logic Depth | Functional Equivalence |
-|:--------:|:---------:|:---------:|:--------:|:--------------:|:----------------:|:-----------:|:----------------------:|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **F1** | 4 | 4 | 1 | 0 | **9** | 3 | Equivalent |
 | **F2** | 3 | 1 | 3 | 0 | **7** | 3 | Equivalent |
-| **F3** | 3 | 3 | 2 | 0 | **8** | 3 | Equivalent |
-| **F4** | 1 | 2 | 1 | 2 | **6** | 3 | Equivalent |
+| **F3 (Simplified)** | 3 | 3 | 2 | 0 | **8** | 3 | Equivalent |
+| **F4 (XOR/XNOR)** | 1 | 1 | 1 | 2 | **5** | 3 | Equivalent |
 | **F5** | 3 | 4 | 1 | 0 | **8** | 3 | Equivalent |
-| **F6** | 2 | 3 | 3 | 1 | **9** | 4 | Equivalent |
-| **F7** | 0 | 2 | 0 | 0 (2 NAND/NOR) | **5** | 3 | Equivalent |
-| **F8** | 0 | 3 | 0 | 2 | **8** | 4 | Equivalent |
+| **F6** | 1 | 3 | 2 | 1 | **7** | 4 | Equivalent |
+| **F7 (Hybrid)** | 0 | 2 | 1 | 3 (2 NOR, 1 NAND) | **6** | 3 | Equivalent |
+| **F8** | 1 | 3 | 1 | 2 (1 XOR, 1 XNOR) | **7** | 4 | Equivalent |
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
 <img width="1267" height="645" alt="COA F1" src="https://github.com/user-attachments/assets/418cbb0b-fa84-4048-b65c-78396f8890d6" />
