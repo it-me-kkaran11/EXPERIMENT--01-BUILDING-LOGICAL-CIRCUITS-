@@ -161,10 +161,14 @@ For each circuit, record:
 - Functional equivalence before and after simplification
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
-
-
-
-
+<img width="1267" height="645" alt="COA F1" src="https://github.com/user-attachments/assets/418cbb0b-fa84-4048-b65c-78396f8890d6" />
+<img width="1251" height="640" alt="COA F2" src="https://github.com/user-attachments/assets/ddf3bdbf-d98d-41b2-a7bf-41987b14a61e" />
+<img width="1417" height="652" alt="COA F3" src="https://github.com/user-attachments/assets/a6c48f14-c713-47fc-9548-5a3673e80e3d" />
+<img width="1047" height="530" alt="COA F4" src="https://github.com/user-attachments/assets/eaac41e0-0cd2-43fb-acf1-8656ee94cded" />
+<img width="1326" height="650" alt="COA F5" src="https://github.com/user-attachments/assets/354563ae-5479-49bd-8a73-9e47138a07ad" />
+<img width="1153" height="625" alt="COA F6" src="https://github.com/user-attachments/assets/e92c211f-5cf6-4c8c-b041-660c2f652d3f" />
+<img width="1056" height="582" alt="COA F7" src="https://github.com/user-attachments/assets/3e1e1210-9da5-484a-a468-0b9a5135aed8" />
+<img width="1302" height="652" alt="COA F8" src="https://github.com/user-attachments/assets/177e6a5c-1bb0-4216-be92-5105b0453beb" />
  
 ## 8. Result
 
